@@ -8,7 +8,9 @@
 
 </div>
 
+
 ---
+
 
 ## ☩ Contacts
 
@@ -20,7 +22,9 @@
 
 </div>
 
+
 ---
+
 
 ## ☩ Skills
 
@@ -34,7 +38,9 @@
 
 </div>
 
+
 ---
+
 
 <div align="center">
 
